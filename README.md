@@ -18,6 +18,7 @@
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/redis-logo.png" alt="c" height="50"/> 
 <img src="https://grpc.io/img/logos/grpc-logo.png" alt="grpc logo" title="GRPC" height="50" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="Jenkins Logo" title="Jenkins" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kafka logo" title="KAFKA" height="50" />
@@ -27,7 +28,9 @@
  
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagyagoel1&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yagyagoel1&theme=dark" alt="GitHub Streak" /></a>
+</p>
 <br>
 
 ## 📬 Get in touch
