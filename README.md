@@ -28,10 +28,13 @@
  
 <br/>
  
-## 🔥 Streak Stats
+## 🔥 Github Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yagyagoel1&theme=dark" alt="GitHub Streak" /></a>
+<p  align="center"> 
+<a href="https://github.com/hemantwasthere">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yagyagoel1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yagyagoel1&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a>
 </p>
 <br>
 
@@ -40,6 +43,7 @@
 <p align="center">
 <a href="https://twitter.com/Yagya855567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yagyagoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://instagram.com/yagyagoel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <br>
