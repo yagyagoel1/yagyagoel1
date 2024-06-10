@@ -21,9 +21,9 @@
 
 <img src="https://grpc.io/img/logos/grpc-logo.png" alt="grpc logo" title="GRPC" height="50" />
     <img src="https://brandslogos.com/wp-content/uploads/images/large/redis-logo.png" alt="c" height="50"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="Jenkins Logo" title="Jenkins" height="50">
+  <img src="https://logotyp.us/file/kubernetes.svg" alt="K8 Logo" title="K8" height="65">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kafka logo" title="KAFKA" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash scripting logo" title="BASH" height="50" />
  </p>
  
 <br/>
