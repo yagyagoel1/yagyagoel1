@@ -4,8 +4,8 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Yagya</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi, I'm Yagya Goel</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 ## 🛠 My skills include 
